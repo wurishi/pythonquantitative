@@ -1,1 +1,1 @@
-# pythonquantitative
+[link](./note.md)
